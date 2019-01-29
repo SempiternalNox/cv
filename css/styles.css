@@ -1,0 +1,20 @@
+  body {
+    background-color: lightblue;
+  }
+
+  img:hover{
+    border-radius: 50%;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 4%;
+    border-color: gray;
+  }
+
+  h1, h2 {
+    color: #66BFBF;
+    font-weight: bolder;
+  }
